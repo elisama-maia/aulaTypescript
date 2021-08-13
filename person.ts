@@ -1,6 +1,6 @@
 export class Person {
 
-  firstname: sring;
+  firstname: string;
   middlename: string;
   lastname: string;
   age: number;
